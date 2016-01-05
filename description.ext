@@ -1,0 +1,9 @@
+disabledAI = true;
+
+authors = WyteOut/Cunico;
+onLoadName = Rifle Range;
+
+/* Disables the option to save the mission. */
+saving=0;
+
+
