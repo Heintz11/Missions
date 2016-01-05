@@ -3,8 +3,11 @@
 
 // All settings below are not needed for your own mission
 
-Author="Heintz";
-OnLoadMission = "By: SFC. Heintz";
+Author="SFC Heintz";
+OnLoadMission = "Get your loadout and Wait for instructions";
 LoadScreen = "USASOC_Banner.jpg";
 
 enableDebugConsole = 1;
+respawn= "BASE";
+respawnDelay = 10;
+respawnOnStart = 1;
